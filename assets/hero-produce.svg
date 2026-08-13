@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 380" fill="none" role="img" aria-label="Fresh fruits and vegetables from Telangana farmers">
+
+  <!-- Soft platter background -->
+  <ellipse cx="240" cy="225" rx="215" ry="145" fill="#f0fdf4" opacity="0.85"/>
+  <ellipse cx="240" cy="368" rx="180" ry="14" fill="#000" opacity="0.04"/>
+
+  <!-- ── BANANA BUNCH (top-right, background) ── -->
+  <g transform="translate(348 110) rotate(35)">
+    <path d="M0 0 C38 -4 62 18 56 48 C50 72 28 80 6 68 C-8 59 -10 38 0 0Z" fill="#fbbf24"/>
+    <path d="M1 1 C37 -6 61 14 54 46" stroke="#d97706" stroke-width="1.5" fill="none" opacity="0.45"/>
+    <path d="M0 0 C-8 -14 -12 -28 -5 -33" stroke="#92400e" stroke-width="2" fill="none" stroke-linecap="round"/>
+    <path d="M56 48 C44 -4 10 -4 0 0" fill="#fbbf24" transform="translate(10 -8) rotate(-18 28 24)"/>
+    <path d="M10 -8 C47 -14 71 10 63 42" stroke="#d97706" stroke-width="1" fill="none" opacity="0.3" transform="translate(10 -8) rotate(-18 28 24)"/>
+  </g>
+
+  <!-- ── LEAFY GREENS CLUSTER (upper-left, background) ── -->
+  <g transform="translate(128 118)">
+    <path d="M0 0 C-18 -32 12 -52 28 -28 C38 -12 18 6 0 0Z" fill="#15803d" opacity="0.88"/>
+    <path d="M0 0 C15 -15 22 -28 28 -28" stroke="#166534" stroke-width="1.5" fill="none" opacity="0.5"/>
+    <path d="M4 4 C28 -18 52 -8 44 22 C34 42 8 32 4 4Z" fill="#16a34a" opacity="0.9"/>
+    <path d="M4 4 C20 -8 38 -8 44 22" stroke="#166534" stroke-width="1.5" fill="none" opacity="0.5"/>
+    <path d="M-4 2 C-38 -4 -44 -30 -20 -36 C-4 -40 4 -18 -4 2Z" fill="#308240" opacity="0.82"/>
+    <path d="M-4 2 C-20 -14 -30 -28 -20 -36" stroke="#166534" stroke-width="1.5" fill="none" opacity="0.5"/>
+  </g>
+
+  <!-- ── MANGO (left-center, tilted) ── -->
+  <g transform="translate(128 208) rotate(-25)">
+    <path d="M0 -62 C36 -56 50 -18 45 24 C40 60 22 76 0 76 C-22 76 -40 60 -45 24 C-50 -18 -36 -56 0 -62Z" fill="#f5a623"/>
+    <path d="M-10 -42 C2 -56 22 -48 26 -28" stroke="white" stroke-width="5" stroke-linecap="round" opacity="0.35"/>
+    <ellipse cx="16" cy="28" rx="22" ry="14" fill="#e09010" opacity="0.18" transform="rotate(-10 16 28)"/>
+    <line x1="0" y1="-62" x2="-4" y2="-82" stroke="#78350f" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M-4 -82 C-22 -96 -14 -112 0 -102 C14 -112 22 -96 4 -82Z" fill="#308240"/>
+  </g>
+
+  <!-- ── TOMATO (right-center, large) ── -->
+  <g transform="translate(312 205)">
+    <circle r="54" fill="#ef4444"/>
+    <ellipse cx="0" cy="32" rx="46" ry="20" fill="#b91c1c" opacity="0.18"/>
+    <circle cx="-16" cy="-18" r="14" fill="white" opacity="0.24"/>
+    <!-- calyx: 5 leaf points -->
+    <path d="M0 -54 C-10 -67 -22 -62 -15 -52 C-27 -62 -30 -75 -16 -67 C-24 -80 -10 -84 -3 -70 C-6 -85 6 -85 3 -70 C10 -84 24 -80 16 -67 C30 -75 27 -62 15 -52 C22 -62 10 -67 0 -54Z" fill="#16a34a"/>
+  </g>
+
+  <!-- ── BRINJAL/EGGPLANT (right-back) ── -->
+  <g transform="translate(368 288) rotate(22)">
+    <path d="M0 -58 C26 -52 36 -18 32 22 C28 54 14 70 0 70 C-14 70 -28 54 -32 22 C-36 -18 -26 -52 0 -58Z" fill="#7c3aed"/>
+    <ellipse cx="-8" cy="-28" rx="8" ry="14" fill="white" opacity="0.2" transform="rotate(-15 -8 -28)"/>
+    <ellipse cx="0" cy="26" rx="20" ry="10" fill="#5b21b6" opacity="0.2"/>
+    <path d="M-10 -60 C-4 -74 6 -78 14 -68 C18 -78 28 -74 22 -60" fill="#15803d"/>
+    <line x1="4" y1="-64" x2="9" y2="-86" stroke="#15803d" stroke-width="2.5" stroke-linecap="round"/>
+  </g>
+
+  <!-- ── GREEN CHILI (lower-center) ── -->
+  <g transform="translate(200 308) rotate(-18)">
+    <path d="M0 4 C10 -8 14 -36 11 -68 C9 -82 5 -90 0 -90 C-5 -90 -9 -82 -11 -68 C-14 -36 -10 -8 0 4Z" fill="#22c55e"/>
+    <path d="M-3 -20 C-5 -46 -4 -66 -2 -80" stroke="white" stroke-width="2.5" stroke-linecap="round" opacity="0.28"/>
+    <path d="M-5 2 C-14 -10 -6 -18 0 -12 C6 -18 14 -10 5 2Z" fill="#166534"/>
+    <line x1="0" y1="4" x2="3" y2="18" stroke="#78350f" stroke-width="2" stroke-linecap="round"/>
+  </g>
+
+  <!-- ── Small tomato (lower-left accent) ── -->
+  <g transform="translate(82 285)">
+    <circle r="28" fill="#f87171"/>
+    <circle cx="-8" cy="-9" r="7" fill="white" opacity="0.22"/>
+    <path d="M0 -28 C-5 -36 -12 -33 -8 -27 C-14 -33 -16 -40 -8 -36 C-12 -43 -4 -45 0 -37 C4 -45 12 -43 8 -36 C16 -40 14 -33 8 -27 C12 -33 5 -36 0 -28Z" fill="#16a34a"/>
+  </g>
+
+  <!-- ── Decorative floating dots ── -->
+  <circle cx="80" cy="155" r="5" fill="#f5a623" opacity="0.45"/>
+  <circle cx="435" cy="168" r="6" fill="#308240" opacity="0.38"/>
+  <circle cx="58"  cy="340" r="4" fill="#7c3aed" opacity="0.32"/>
+  <circle cx="452" cy="310" r="4" fill="#fbbf24" opacity="0.45"/>
+  <circle cx="240" cy="370" r="3" fill="#ef4444" opacity="0.35"/>
+  <circle cx="420" cy="370" r="3" fill="#22c55e" opacity="0.4"/>
+
+  <!-- ── Subtle arc flourishes ── -->
+  <path d="M58 245 Q68 205 90 192" stroke="#bbf7d0" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <path d="M415 148 Q428 168 424 192" stroke="#bbf7d0" stroke-width="2" fill="none" stroke-linecap="round"/>
+</svg>

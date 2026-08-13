@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" width="192" height="192">
+  <rect width="192" height="192" rx="40" fill="#308240"/>
+  <!-- Leaf / fresh produce icon -->
+  <circle cx="96" cy="72" r="30" fill="#ffffff" opacity="0.15"/>
+  <!-- Stylized leaf -->
+  <path d="M96 48 C70 48 54 68 54 90 C54 112 70 128 96 128 C122 128 138 112 138 90 C138 68 122 48 96 48Z" fill="#ffffff" opacity="0.9"/>
+  <!-- Leaf vein -->
+  <path d="M96 52 L96 124" stroke="#308240" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M96 80 Q110 74 118 64" stroke="#308240" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <path d="M96 95 Q112 89 120 79" stroke="#308240" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <path d="M96 80 Q82 74 74 64" stroke="#308240" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <path d="M96 95 Q80 89 72 79" stroke="#308240" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <!-- Stem -->
+  <path d="M96 128 Q90 144 86 152" stroke="#ffffff" stroke-width="3" stroke-linecap="round" fill="none" opacity="0.8"/>
+  <!-- App name -->
+  <text x="96" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#ffffff" letter-spacing="0.5">RaithuFresh</text>
+</svg>

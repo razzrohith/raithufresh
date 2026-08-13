@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <!-- Full bleed background for maskable (safe zone = center 80%) -->
+  <rect width="512" height="512" fill="#308240"/>
+  <!-- Content within safe zone (51px padding each side ~ 10%) -->
+  <!-- Stylized leaf - kept well within safe zone -->
+  <path d="M256 140 C212 140 180 178 180 224 C180 270 212 308 256 308 C300 308 332 270 332 224 C332 178 300 140 256 140Z" fill="#ffffff" opacity="0.92"/>
+  <!-- Leaf vein -->
+  <path d="M256 148 L256 306" stroke="#308240" stroke-width="5.5" stroke-linecap="round"/>
+  <path d="M256 198 Q284 188 304 170" stroke="#308240" stroke-width="4" stroke-linecap="round" fill="none"/>
+  <path d="M256 224 Q286 214 306 196" stroke="#308240" stroke-width="4" stroke-linecap="round" fill="none"/>
+  <path d="M256 248 Q282 238 300 222" stroke="#308240" stroke-width="3.5" stroke-linecap="round" fill="none"/>
+  <path d="M256 198 Q228 188 208 170" stroke="#308240" stroke-width="4" stroke-linecap="round" fill="none"/>
+  <path d="M256 224 Q226 214 206 196" stroke="#308240" stroke-width="4" stroke-linecap="round" fill="none"/>
+  <path d="M256 248 Q230 238 212 222" stroke="#308240" stroke-width="3.5" stroke-linecap="round" fill="none"/>
+  <!-- Stem -->
+  <path d="M256 306 Q244 336 238 354" stroke="#ffffff" stroke-width="6" stroke-linecap="round" fill="none" opacity="0.85"/>
+  <!-- App name -->
+  <text x="256" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" font-weight="bold" fill="#ffffff" letter-spacing="1">RaithuFresh</text>
+</svg>

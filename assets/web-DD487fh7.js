@@ -1,0 +1,1 @@
+import{aR as n}from"./index-B2OvsrU_.js";import"./motion-Cw2F_kAB.js";import"./react-vendor-CJ-HA7yK.js";import"./supabase-32m17kJd.js";class p extends n{async show(e){}async hide(e){}}export{p as SplashScreenWeb};

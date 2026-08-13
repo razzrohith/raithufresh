@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 160" fill="none" role="img" aria-label="No produce found">
+  <!-- Basket body -->
+  <path d="M28 80 Q28 144 100 144 Q172 144 172 80Z" fill="#f9fafb" stroke="#e5e7eb" stroke-width="2.5"/>
+  <!-- Basket weave vertical lines -->
+  <path d="M55 80 Q53 140 100 144" stroke="#e5e7eb" stroke-width="1.5" fill="none"/>
+  <path d="M82 78 Q80 142 100 144" stroke="#e5e7eb" stroke-width="1.5" fill="none"/>
+  <path d="M118 78 Q120 142 100 144" stroke="#e5e7eb" stroke-width="1.5" fill="none"/>
+  <path d="M145 80 Q147 140 100 144" stroke="#e5e7eb" stroke-width="1.5" fill="none"/>
+  <!-- Basket weave horizontal bands -->
+  <path d="M32 100 Q100 108 168 100" stroke="#e5e7eb" stroke-width="1.5" fill="none"/>
+  <path d="M30 120 Q100 130 170 120" stroke="#e5e7eb" stroke-width="1.5" fill="none"/>
+  <!-- Basket handle -->
+  <path d="M52 80 Q52 36 100 34 Q148 32 148 80" stroke="#d1d5db" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- Empty dotted lines inside basket -->
+  <line x1="72" y1="100" x2="128" y2="100" stroke="#d1d5db" stroke-width="2" stroke-dasharray="4 3"/>
+  <line x1="82" y1="116" x2="118" y2="116" stroke="#d1d5db" stroke-width="2" stroke-dasharray="4 3"/>
+  <!-- Floating question dots -->
+  <circle cx="100" cy="62" r="3.5" fill="#d1d5db"/>
+  <circle cx="100" cy="52" r="2.5" fill="#e5e7eb"/>
+  <circle cx="100" cy="44" r="1.8" fill="#f3f4f6"/>
+</svg>

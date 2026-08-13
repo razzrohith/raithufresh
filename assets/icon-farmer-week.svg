@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" fill="none" role="img" aria-label="Farmer of the week">
+  <!-- Gold star burst background -->
+  <circle cx="40" cy="40" r="36" fill="#fef9c3" stroke="#fde68a" stroke-width="2"/>
+  <!-- Star points -->
+  <path d="M40 8 L43 28 L60 18 L50 34 L72 36 L54 46 L64 64 L44 56 L40 76 L36 56 L16 64 L26 46 L8 36 L30 34 L20 18 L37 28Z" fill="#fde68a" opacity="0.6"/>
+  <!-- Inner circle -->
+  <circle cx="40" cy="40" r="22" fill="#fffbeb" stroke="#f59e0b" stroke-width="1.5"/>
+  <!-- Leaf icon in center -->
+  <path d="M40 52 C32 52 28 44 30 38 C32 30 40 26 40 26 C40 26 48 30 50 38 C52 44 48 52 40 52Z" fill="#308240"/>
+  <line x1="40" y1="52" x2="40" y2="56" stroke="#308240" stroke-width="2" stroke-linecap="round"/>
+  <!-- Center vein -->
+  <path d="M40 26 Q40 40 40 52" stroke="#15803d" stroke-width="1.2" fill="none" opacity="0.5"/>
+</svg>

@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Offline – RaithuFresh</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: 'Inter', Arial, sans-serif;
+      background: #faf8f5;
+      color: #202b21;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 24px;
+      text-align: center;
+    }
+    .icon {
+      width: 80px;
+      height: 80px;
+      background: #308240;
+      border-radius: 20px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin: 0 auto 24px;
+    }
+    .icon svg {
+      width: 48px;
+      height: 48px;
+      fill: white;
+    }
+    h1 {
+      font-size: 1.5rem;
+      font-weight: 700;
+      color: #308240;
+      margin-bottom: 12px;
+    }
+    p {
+      font-size: 1rem;
+      color: #6b7280;
+      max-width: 320px;
+      line-height: 1.6;
+      margin-bottom: 28px;
+    }
+    button {
+      background: #308240;
+      color: white;
+      border: none;
+      padding: 12px 28px;
+      border-radius: 10px;
+      font-size: 0.95rem;
+      font-weight: 600;
+      cursor: pointer;
+    }
+    button:active { opacity: 0.85; }
+    .badge {
+      margin-top: 20px;
+      font-size: 0.75rem;
+      color: #9ca3af;
+    }
+  </style>
+</head>
+<body>
+  <div class="icon">
+    <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+      <path d="M17 8C8 10 5.9 16.17 3.82 19.29l1.5 1.13L7 19c.5-.75 1-1.5 1.5-2 1 1 2.5 2 4.5 2 3.31 0 6-2.69 6-6 0-2.53-1.56-4.72-3.8-5.64C15.23 7.28 16.1 7.57 17 8z"/>
+    </svg>
+  </div>
+  <h1>RaithuFresh</h1>
+  <p>You are offline. Please reconnect to view fresh produce listings.</p>
+  <button onclick="window.location.reload()">Try Again</button>
+  <p class="badge">RaithuFresh — Connecting Telangana farmers with local buyers</p>
+</body>
+</html>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" fill="none" role="img" aria-label="Fruit">
+  <!-- Mango body -->
+  <path d="M20 34 C10 34 7 24 7 18 C7 10 13 6 20 6 C27 6 33 10 33 18 C33 24 30 34 20 34Z" fill="#f5a623"/>
+  <!-- Highlight -->
+  <ellipse cx="14" cy="13" rx="4" ry="6" fill="white" opacity="0.28" transform="rotate(-15 14 13)"/>
+  <!-- Bottom shadow -->
+  <ellipse cx="20" cy="30" rx="9" ry="4" fill="#d97706" opacity="0.2"/>
+  <!-- Stem -->
+  <line x1="20" y1="6" x2="19" y2="2" stroke="#78350f" stroke-width="1.8" stroke-linecap="round"/>
+  <!-- Leaf -->
+  <path d="M19 2 C14 -1 12 4 16 5 C12 5 11 10 16 8Z" fill="#308240"/>
+</svg>
